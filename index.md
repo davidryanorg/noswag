@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# The No SWAG Manifesto
 
-You can use the [editor on GitHub](https://github.com/davidryanorg/noswag/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## What is Swag?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We're not talking about pirate swag! The kind of swag that we're interested in is the free goods given away at events, such as technology conferences and events, for promotional/marketing purposes. Usually it's of low quality, and mass produced. The value of swag to the business is highly questionable. Some companies get a positive boost for memroable swag. But most of the times it's uninteresting, boring and basically wasteful.
 
-### Markdown
+## Why is Swag bad?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There's a number of reasons why Swag is "bad":
 
-```markdown
-Syntax highlighted code block
+1. Most of it is thrown away.
+2. It has very little value.
+3. Usually doesn't have the desired impact (marketing).
 
-# Header 1
-## Header 2
-### Header 3
+## The war on Swag
 
-- Bulleted
-- List
+We're fighting a war. A war on waste, and the impact that waste has on our climate and cultivating wasteful culture. Swag represents a small battle within this global war, but we believe that 
 
-1. Numbered
-2. List
+So kids, remember ...
 
-**Bold** and _Italic_ and `Code` text
+**Just say NO to SWAG.**
 
-[Link](url) and ![Image](src)
-```
+## What can we do?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. Cut down our creation of swag as vendors at events. If possible, aim for no swag.
+2. Use the money saved for better causes. Contribute it back to the environment, or to help those in need. 
+3. Don't take swag from vendors.
 
-### Jekyll Themes
+This is not a publicitly stunt. We've particpated in swag creation and swag consumption. But for the past few years we decided to use our swag budget to help causes, such as food banks, in events that we've sponsored.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/davidryanorg/noswag/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Companies and individuals supporting the NO SWAG manifesto:
 
-### Support or Contact
+* https://cheksec.com
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you want to add your name, or your company's name, to this list, please send a pull request or a drop a mail to saynotoswag@noswag.org. Feel free to tell us how you're fighting the war on swag and we'll share your story via this site.
+
